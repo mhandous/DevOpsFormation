@@ -1,2 +1,0 @@
-# DevOpsFormation
-Formation DevOps Script
